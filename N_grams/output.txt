@@ -1,0 +1,151 @@
+4.2614618468724694e-12
+2.1917105016010125e-10
+1.300954305036512e-20
+7.171157859919036e-17
+4.707030569153962e-24
+1.3987379993949069e-15
+3.564513089891315e-16
+5.21390342097979e-29
+8.789526883988453e-21
+3.205561476753549e-06
+2.958533066031869e-12
+1.1550113402901352e-13
+2.558822466135143e-16
+3.203685333545765e-07
+1.855393783334354e-15
+9.245263179855034e-08
+1.2797382301499905e-07
+2.716022482850675e-08
+6.056626803775511e-16
+2.932826305724547e-24
+1.2805903076228628e-41
+1.0935861596467785e-37
+1.6403561576071146e-24
+3.2234018391054955e-20
+6.56249117915876e-20
+1.9933491146622333e-13
+6.157241431424063e-08
+1.064646941356162e-12
+2.0740781626052755e-25
+2.802332460007931e-16
+5.442522832179218e-12
+6.906384698154868e-21
+1.7688250920406828e-16
+1.3691146913018055e-14
+3.270059378691269e-22
+5.958877714286575e-20
+6.303578637695592e-10
+4.878499146045044e-10
+1.7184381055438443e-16
+5.171234906111606e-13
+6.648429202918436e-17
+4.2681035933325084e-15
+4.075214098453511e-14
+8.99687047962639e-21
+8.009191956715653e-18
+3.0859602659804046e-18
+1.4956835212670028e-13
+1.141577523001692e-13
+5.875372710937119e-21
+5.7544144266179e-24
+5.1193935971153484e-26
+4.7939215082332864e-18
+3.7188513232700173e-07
+3.7209717588298355e-05
+3.7209717588298355e-05
+1.401688656603468e-16
+7.298975570226073e-16
+6.646521193858503e-09
+2.2855569307631807e-09
+7.370343336543868e-19
+0.0005020788253619066
+3.811547909262099e-17
+1.3965237134554305e-21
+3.4314045502970505e-14
+2.7064184841941036e-27
+9.943369216592145e-20
+2.5012441266709326e-09
+3.522521993488381e-07
+2.7382327487210928e-08
+5.3934999228371614e-24
+1.0070756253821455e-21
+4.785671749592126e-24
+5.617663439153453e-13
+4.707604541158563e-14
+4.569639955335756e-30
+4.201557724727383e-15
+7.949271617415182e-11
+4.3154642276119222e-16
+4.6022937597761917e-14
+2.308963223520428e-21
+6.795258392063639e-13
+1.0244386612799553e-10
+9.122143620264914e-10
+2.8887722229491936e-13
+2.8364755358683733e-30
+1.3884840276739478e-13
+4.512104499810624e-64
+1.516727739638534e-23
+6.1434580238991e-05
+3.1065743128636995e-22
+5.951268291951536e-15
+5.023436226213757e-14
+2.033109156881557e-08
+4.1411980567967586e-17
+1.3112129548382315e-16
+6.514446357311141e-17
+1.1202282320790917e-10
+1.4802694534956485e-16
+2.795071706222171e-21
+9.366705554019286e-15
+0.0
+<s> <s> i want to go on tuesday </s> </s>
+<s> <s> the list again </s> </s>
+<s> <s> can you tell me more about caffe giovanni </s> </s>
+<s> <s> what about au-coquelet </s> </s>
+<s> <s> can you tell me something about enoteca-mastro </s> </s>
+<s> <s> under thirty dollars </s> </s>
+<s> <s> pasand madras cuisine pepito's mexican deli petrouchka picante taqueria </s> </s>
+<s> <s> does pasand restaurant have any information on the weekends </s> </s>
+<s> <s> it'll give me any <UNK> </s> </s>
+<s> <s> tell me which restaurants you know restaurants with mediterranean food would be fine </s> </s>
+<s> <s> can you give me more details about thai food </s> </s>
+<s> <s> i wanna have dinner today </s> </s>
+<s> <s> tomorrow </s> </s>
+<s> <s> in a really nice place </s> </s>
+<s> <s> not more than forty dollars </s> </s>
+<s> <s> i would like to eat some chinese food </s> </s>
+<s> <s> start over </s> </s>
+<s> <s> three miles </s> </s>
+<s> <s> i would like to spend fifteen dollars </s> </s>
+<s> <s> it doesn't matter about the jupiter and also the tambo cafe </s> </s>
+<s> <s> i would like to uh find me something about enoteca-mastro </s> </s>
+<s> <s> do you know anything about the cost is <UNK> </s> </s>
+<s> <s> actually i would like to spend seven dollars </s> </s>
+<s> <s> i said i would like to go to a thai restaurant not taiwan </s> </s>
+<s> <s> oh i have lunch </s> </s>
+<s> <s> i want to know more about uh siam cuisine skates soup kitchen heike </s> </s>
+<s> <s> can you make a reservation at caffe giovanni is open </s> </s>
+<s> <s> where can i have some dessert </s> </s>
+<s> <s> can you give me uh which are vegetarian </s> </s>
+<s> <s> i'm <UNK> and i want to eat some vegetables </s> </s>
+<s> <s> uh so i'd like to eat an italian restaurant </s> </s>
+<s> <s> and i don't care how far is it </s> </s>
+<s> <s> i would like szechuan food please </s> </s>
+<s> <s> lunch </s> </s>
+<s> <s> i'll spend any amount is fine </s> </s>
+<s> <s> start over </s> </s>
+<s> <s> no european food </s> </s>
+<s> <s> can i find mediterranean restaurants in the <UNK> of the weekend </s> </s>
+<s> <s> this can be an expensive restaurant </s> </s>
+<s> <s> more than ten dollars </s> </s>
+<s> <s> um i would like to try german food </s> </s>
+<s> <s> i can eat spaghetti </s> </s>
+<s> <s> on wednesday </s> </s>
+<s> <s> let's make the distance to be close to the list again </s> </s>
+<s> <s> um please increase the amount that i want to eat german food and um i'm willing to go on foot </s> </s>
+<s> <s> start over </s> </s>
+<s> <s> do you know a korean restaurant </s> </s>
+<s> <s> i want to know about vietnamese food </s> </s>
+<s> <s> can i have breakfast at smokey joe's cafe </s> </s>
+<s> <s> within five minutes </s> </s>
